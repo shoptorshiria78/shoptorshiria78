@@ -24,9 +24,6 @@ A passionate Junior MERN Stack developer with Frontend specialization and backen
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shoptorshiria78)  [<img   src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/riziya-aker-keya-40201018b/)  
   
 
-### **Git Hub Trophy:**
-[![trophy](https://github-profile-trophy.vercel.app/?username=shoptorshiria78)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### **Top Used Languages:**
 ***
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoptorshiria78)](https://github.com/anuraghazra/github-readme-stats)
